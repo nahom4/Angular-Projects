@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+home-selling-app/node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+home-selling-app/build
+home-selling-app/dist
+
+# Ignore environment variable files
+.env
